@@ -1,13 +1,15 @@
-body{
+body {
     background-color: #ffffff;
 }
-.toplink{
-    font-family:'Helvetica Neue', sans-serif ;
+
+.toplink {
     color: gray;
     padding: 20px;
     cursor: pointer;
-    text-size-adjust: 20px;
+    font-size: 20px;
 }
-.header{
-    text-decoration: none; color: #ffffff; 
+
+.header {
+    text-decoration: none;
+    color: black;
 }
